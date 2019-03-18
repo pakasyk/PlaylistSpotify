@@ -1,7 +1,7 @@
 # Instructions
 ### Installation:
 1. Clone repository <br />
-kr2. Using terminal in "player" folder: npm install && npm run client-install<br />
+2. Using terminal: npm install && npm run client-install<br />
 3. To start App: npm run dev
 
 ### Information:
