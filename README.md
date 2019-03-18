@@ -1,8 +1,13 @@
 # Instructions
 ### Installation:
 1. Clone repository <br />
-2. Using terminal: npm install && npm run client-install<br />
-3. To start App: npm run dev
+2. Using terminal: <br />
+npm install<br/>
+cd client <br />
+npm install<br />
+3. To start App: <br />
+cd .. <br />
+npm run dev
 
 ### Information:
 Front-End runs on create-react-app package port 3000<br />
